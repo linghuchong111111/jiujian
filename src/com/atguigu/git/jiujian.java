@@ -9,6 +9,7 @@ public class jiujian {
 		System.out.println("BB");
 		System.out.println("CC"); 
 		System.out.println("CC"); 
+		System.out.println("ererererer"); 
 
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld");
