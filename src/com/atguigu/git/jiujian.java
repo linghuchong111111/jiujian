@@ -8,8 +8,13 @@ public class jiujian {
 		System.out.println("AA");
 		System.out.println("BB");
 		System.out.println("CC"); 
+
 		System.out.println("CC"); 
 		System.out.println("ererererer"); 
+
+		System.out.println("CCdd"); 
+		System.out.println("DDDDDDDDDDDDD"); 
+
 
 		System.out.println("HelloWorld");
 		System.out.println("HelloWorld");
