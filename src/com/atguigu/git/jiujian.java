@@ -6,7 +6,8 @@ public class jiujian {
 		System.out.println("HelloWorld");
 		System.out.println("AA");
 		System.out.println("BB");
-		System.out.println("CC");
+		System.out.println("CC"); 
+		System.out.println("CC"); 
 
 	}
 
